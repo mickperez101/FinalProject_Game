@@ -59,7 +59,7 @@ public class Enemy : MonoBehaviour
         GetComponent<Collider2D>().enabled = false;
         this.enabled = false;
         Component.Destroy(healthBar);
-        Destroy(gameObject,10);
+        //Destroy(gameObject,10);
         
     }
 
