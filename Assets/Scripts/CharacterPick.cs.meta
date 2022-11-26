@@ -5,7 +5,7 @@ MonoImporter:
   serializedVersion: 2
   defaultReferences:
   - sr: {instanceID: 0}
-  - playerskin: {instanceID: 0}
+  - playerskin: {fileID: 5294790704209312693, guid: c8cf0523789612b46885fe8ace47b0c0, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
